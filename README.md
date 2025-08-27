@@ -1,5 +1,3 @@
-# Chương trình đào tạo
-
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
 - [Core CS](#core-cs)
@@ -61,9 +59,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[SICP](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | none
-[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103)
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
+[SICP](https://romanbird.github.io/sicp/) | 13 weeks | 8-10 hours/week | none | none
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -78,7 +74,8 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus: Single Variabl](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://ossu.dev/precollege-math) | None
+[Calculus: Single Variable](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://ossu.dev/precollege-math) | None
+[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) + [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) - [Textbook](https://linear.axler.net/) | 13 weeks | 6-10 hours/week |  |  | None
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | [chat](https://discord.gg/EuTzNbF)
 
 
